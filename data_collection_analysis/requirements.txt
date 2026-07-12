@@ -1,0 +1,6 @@
+flask
+numpy
+scikit-learn
+gunicorn
+
+web: gunicorn app:app
